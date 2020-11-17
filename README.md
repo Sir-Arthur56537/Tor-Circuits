@@ -13,3 +13,9 @@ python3
 tor
 pip3
 (if error occurs try): pip3 install stem [Or check to see if tor is configured correctly]
+
+# Note
+To keep it running try 
+```
+watch python3 tor.py
+```
